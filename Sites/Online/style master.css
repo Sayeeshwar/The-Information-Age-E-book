@@ -1,0 +1,18 @@
+
+		a:visited, a:link, a:active{ text-decoration:none; color:black;text-align:left;font-family:Segoe UI;font-size:24px;border:2px solid black; border-radius:1px;;}
+		
+		a.mass {border:none;}
+		
+		p{font-family:Calibri; font-size:20px; color:#6E5A5A;text-align:justify;padding:5px;}
+		
+		body{background-image:url(../Images/Wallpapers/orange.jpg);	}
+		
+		header {width:99%; text-align:center; font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", 							                                                     Verdana, sans-serif;height:77px;border:1px solid #6E5A5A; color:#6E5A5A;}
+		
+		nav {width:235px; float:left;height:290px; text-align:left;line-height:70px;border: 2px solid black;padding:0px; background-image:url(../Images/WHITE%20SPACE.png);margin-top:20px}	
+		
+
+		section{border: collapse 6px solid #00E862 ;margin-top:20px;margin-right:10px; padding:2px; width:730px; float:right;height:530px; background-color:#E3C28C; border: 2px solid black;}	
+		
+		
+		

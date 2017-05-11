@@ -1,0 +1,15 @@
+table {
+color:black;}
+
+a:visited, a:link {color:black;}
+
+body{background-image:url(../Images/Wallpapers/orange.jpg);}
+
+th {font-size:36px;
+font-family:Segoe UI;
+color:black;
+}
+
+td{font-size:18px;
+font-family:"Segoe UI";
+color:black;}
